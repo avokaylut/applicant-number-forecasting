@@ -1,0 +1,14 @@
+[
+  {
+    "file": "solutions/forecast_clean.py",
+    "source_label": "forecast_clean/solution.py",
+    "sha256": "2122f61c0392429ea531c99f5c7b07f7179dfc8b41fb0b72f5405b31f68b7ff5",
+    "preserved_byte_for_byte": true
+  },
+  {
+    "file": "solutions/extended_v3.py",
+    "source_label": "presentation_selection/01_v3/solution.py",
+    "sha256": "b0d8eb948cc35d3a6db2bc421818bfa6892dc499ea19f1b8bb829e71f4c5efdf",
+    "preserved_byte_for_byte": true
+  }
+]

@@ -1,3 +1,35 @@
+# Competition material and all derived outputs stay local.
+data/
+output/
+artifacts/
+private/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.zip
+*.parquet
+*.pkl
+*.joblib
+*.cbm
+*.png
+*.jpg
+*.pdf
+run_info.json
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+catboost_info/
+.DS_Store
+Thumbs.db
+
+# Standard Python exclusions retained from the initial repository.
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -221,3 +253,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
