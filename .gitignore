@@ -254,3 +254,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+
+# README illustrations
+!docs/images/leaderboard.png
+!docs/images/validation.png
